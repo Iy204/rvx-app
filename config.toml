@@ -12,7 +12,7 @@ patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "RVX App"
 
-patches-version = "dev"
+patches-version = "main"
 cli-version = "dev"
 
 [YouTube]
